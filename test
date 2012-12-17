@@ -1,0 +1,4 @@
+echo "My GitHub persian" > index.html
+git add .
+git commit -m "Create persian"
+git push origin persian
